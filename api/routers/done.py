@@ -1,4 +1,3 @@
-#間違い見つける
 from fastapi import APIRouter, HTTPException, Depends
 from sqlalchemy.ext.asyncio import AsyncSession
 
